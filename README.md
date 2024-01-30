@@ -1,6 +1,5 @@
 # Wine&Dine
 
-![]('https://i.ibb.co/8K5Nw5Z/DALL-E-2024-01-29-21-36-43-A-modern-and-elegant-logo-for-a-project-called-Wine-Dine-The-logo-feature.png')
 
 ## Inspiration
 My journey into the world of wine was sparked by a wine tasting class I attended with friends during the fall. While the class provided valuable insights into winemaking, tasting techniques, and the essence of a "good" wine, it left me with a hunger for knowledge about wine pairings. I often found myself leaving the class with a growling stomach, unsure of how to perfectly complement the wines we tasted.
