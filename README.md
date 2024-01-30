@@ -1,5 +1,5 @@
 # Wine&Dine
-
+![]('https://ibb.co/w0WBqWm')
 
 ## Inspiration
 My journey into the world of wine was sparked by a wine tasting class I attended with friends during the fall. While the class provided valuable insights into winemaking, tasting techniques, and the essence of a "good" wine, it left me with a hunger for knowledge about wine pairings. I often found myself leaving the class with a growling stomach, unsure of how to perfectly complement the wines we tasted.
