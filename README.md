@@ -1,6 +1,5 @@
 # Wine&Dine
 
-![]('https://files.oaiusercontent.com/file-H8yQi30Mz7RvbK1gS27CvDUz?se=2024-01-30T05%3A40%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db230ec5e-8853-4614-854d-a40e1e6a6a32.webp&sig=eGdz%2BOGtu5JbQmNgpcYXQosQ9yBG4l%2B24STeE1UtTkg%3D')
 
 ## Inspiration
 My journey into the world of wine was sparked by a wine tasting class I attended with friends during the fall. While the class provided valuable insights into winemaking, tasting techniques, and the essence of a "good" wine, it left me with a hunger for knowledge about wine pairings. I often found myself leaving the class with a growling stomach, unsure of how to perfectly complement the wines we tasted.
